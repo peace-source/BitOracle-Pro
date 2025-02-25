@@ -49,8 +49,6 @@ cd bitoracle-pro
 clarinet install
 ```
 
-````
-
 ## Deployment
 
 1. Configure `Clarinet.toml` with network parameters
@@ -144,5 +142,3 @@ Reward = (User Stake / Winning Pool) * Total Pool * 0.98
    Minimum stake requirements and progressive fee scaling
 4. **Reentrancy**
    Clarity's inherent anti-reentrant design
-
-````
